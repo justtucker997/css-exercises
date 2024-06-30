@@ -1,13 +1,19 @@
-.class_1 {
-    background-color: #;
+.odd {
+    background-color: rgba(255, 0, 0, .5);
 }
 
-.class_2 {
-        font-size: 22px;
-        background-color: red;
+.bigger-font {
+        font-size: 28px;
+
 }
 
-#id_1 {
+#two {
     color: blue;
-    font-size: 28px;
+    font-size: 38px;
+}
+
+#four {
+    font-weight: bold;
+    background-color: rgba(255, 255, 0, 0.5);
+
 }
