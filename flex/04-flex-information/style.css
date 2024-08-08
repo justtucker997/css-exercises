@@ -25,9 +25,20 @@ img {
   background: #eee;
 }
 
-
-body {
-  display: flex;
-  justify-content: center;
+body{ 
+  text-align: center;
 }
 
+.content {
+  display: flex;
+  justify-content: center;
+  gap: 52px;
+}
+
+.title {
+  margin-bottom: 32px;
+}
+
+.item{
+max-width: 200px;
+}
